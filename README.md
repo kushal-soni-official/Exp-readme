@@ -4,9 +4,6 @@
      Theme: Electric Blue Primary + Neon Green + Blood Red + Gold
 ═══════════════════════════════════════════════════════════════ -->
 
-<!-- ▓▓▓ HEADER — Capsule Render Wave ▓▓▓ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1e,100:0088ff&height=200&section=header&text=KUSHAL%20SONI&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20%26%20AI%20Engineer&descAlignY=56&descSize=18&descColor=0088ff" alt="Header" />
-
 <!-- ▓▓▓ BANNER ▓▓▓ -->
 <img width="100%" src="https://raw.githubusercontent.com/kushal-soni-official/Exp-readme/main/banner.png" alt="Kushal Soni Banner" />
 
@@ -37,7 +34,7 @@
 
 ## `▸` About Me
 
-- 🎓 **CSE Student** — Diploma, Govt Polytechnic Adampur | **~75%** | XII UP Board: **89%**
+- 🎓 **Computer Science & Engineering Student** — Diploma in CSE (**~75%**) | XII UP Board (**89%**) — building real-world security systems while still in college
 - 🔐 Building **AI-powered cybersecurity tools from scratch** — zero paid subscriptions, pure skill
 - ⚔️ Core focus: **Ethical Hacking, Network Security & AI-layer defense** — Kali Linux to multi-agent pipelines
 - 🤖 Trained ML models achieving high accuracy on security classification tasks (Random Forest + PyTorch)
@@ -102,9 +99,15 @@
 ## `▸` GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=kushal-soni-official&show_icons=true&hide_border=false&theme=tokyonight&bg_color=0a0f1e&title_color=0088ff&icon_color=00ff88&text_color=ffffff&border_color=0088ff" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kushal-soni-official&theme=tokyonight" height="150" alt="Stats" />
   &nbsp;
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushal-soni-official&layout=compact&hide_border=false&theme=tokyonight&bg_color=0a0f1e&title_color=0088ff&text_color=ffffff&border_color=0088ff&langs_count=6" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kushal-soni-official&theme=tokyonight" height="150" alt="Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kushal-soni-official&theme=tokyonight&utcOffset=5.5" height="150" alt="Productive Time" />
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kushal-soni-official&theme=tokyonight" height="150" alt="Profile Details" />
 </p>
 
 <p align="center">
@@ -156,8 +159,8 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,12&height=2" alt="divider" />
 
-<!-- ▓▓▓ HERO GIF — from main profile readme ▓▓▓ -->
-<img width="100%" src="https://raw.githubusercontent.com/kushal-soni-official/Kushal-soni-official/main/Pi7_Gif10.gif" alt="Kushal Soni" />
+<!-- ▓▓▓ BOTTOM GIF — from main profile readme ▓▓▓ -->
+<img width="100%" src="https://raw.githubusercontent.com/kushal-soni-official/Kushal-soni-official/main/Pi7_Gif.gif" alt="Kushal Soni" />
 
 <!-- ▓▓▓ FOOTER — Electric Blue Wave ▓▓▓ -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0088ff&height=120&section=footer" alt="Footer" />
