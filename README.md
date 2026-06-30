@@ -1,11 +1,14 @@
 <!-- ═══════════════════════════════════════════════════════════════
-     README v4.1 — KUSHAL SONI | CYBERSECURITY & AI ENGINEER
+     README v4.2 — KUSHAL SONI | CYBERSECURITY & AI ENGINEER
      Target: github.com/kushal-soni-official/Exp-readme
      Theme: Electric Blue Primary + Neon Green + Blood Red + Gold
 ═══════════════════════════════════════════════════════════════ -->
 
+<!-- ▓▓▓ HEADER — Capsule Render Wave ▓▓▓ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1e,100:0088ff&height=200&section=header&text=KUSHAL%20SONI&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20%26%20AI%20Engineer&descAlignY=56&descSize=18&descColor=0088ff" alt="Header" />
+
 <!-- ▓▓▓ BANNER ▓▓▓ -->
-<img width="100%" src="https://raw.githubusercontent.com/kushal-soni-official/Exp-readme/main/banner.png" alt="Kushal Soni — Cybersecurity & AI Engineer" />
+<img width="100%" src="https://raw.githubusercontent.com/kushal-soni-official/Exp-readme/main/banner.png" alt="Kushal Soni Banner" />
 
 <br/>
 
@@ -19,7 +22,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2000&pause=900&color=0088FF&center=true&vCenter=true&multiline=false&width=750&height=45&lines=%3E+Cybersecurity+%26+AI+Engineering+Student;%3E+Building+real+security+tools+on+zero+budget;%3E+Network+Recon+%7C+Threat+Detection+%7C+AI+Defense;%3E+CTF+Player+%7C+Active+TryHackMe+Practitioner;%3E+Every+tool+here+was+built+with+raw+persistence;%5B+ACCESS+GRANTED+%5D" alt="Typing animation" />
 </p>
 
-<!-- ▓▓▓ BADGE ROW — Followers, Views, TryHackMe ▓▓▓ -->
+<!-- ▓▓▓ BADGE ROW — Followers & Views only ▓▓▓ -->
 <p align="center">
   <a href="https://github.com/kushal-soni-official?tab=followers">
     <img src="https://img.shields.io/github/followers/kushal-soni-official?label=FOLLOWERS&style=for-the-badge&color=0a0f1e&labelColor=0d1b2a&logo=github&logoColor=0088ff" alt="GitHub Followers" />
@@ -28,26 +31,22 @@
   <a href="https://github.com/kushal-soni-official">
     <img src="https://komarev.com/ghpvc/?username=kushal-soni-official&style=for-the-badge&color=0a0f1e&labelColor=0d1b2a&label=PROFILE+VIEWS" alt="Profile Views" />
   </a>
-  &nbsp;
-  <a href="https://tryhackme.com/p/kusharusan">
-    <img src="https://img.shields.io/badge/TryHackMe-Active%20Practitioner-FF0000?style=for-the-badge&logo=tryhackme&logoColor=white&labelColor=0d1b2a" alt="TryHackMe" />
-  </a>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0f1e,50:0088ff,100:0a0f1e&height=2" alt="divider" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,12&height=2" alt="divider" />
 
 ## `▸` About Me
 
-- 🎓 **CSE Student** — Diploma, Govt Polytechnic Adampur | **~75%, Top 3 in batch** | XII Board: **89%, Ranked #2 in State**
+- 🎓 **CSE Student** — Diploma, Govt Polytechnic Adampur | **~75%** | XII UP Board: **89%**
 - 🔐 Building **AI-powered cybersecurity tools from scratch** — zero paid subscriptions, pure skill
 - ⚔️ Core focus: **Ethical Hacking, Network Security & AI-layer defense** — Kali Linux to multi-agent pipelines
 - 🤖 Trained ML models achieving high accuracy on security classification tasks (Random Forest + PyTorch)
-- 🌐 Dual-track approach: **offensive recon** (NetSpectre + Nmap) and **defensive AI** (Prompt Injection detection)
+- 🌐 Dual-track: **offensive recon** (NetSpectre + Nmap) and **defensive AI** (Prompt Injection detection)
 - 💡 Every project: **open source, free-tier only, built on persistence** — no shortcuts taken
 
 > *"Being a hacker means being able to master anything you want."*
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0f1e,50:0088ff,100:0a0f1e&height=2" alt="divider" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,12&height=2" alt="divider" />
 
 ## `▸` Technical Stack
 
@@ -85,7 +84,7 @@
   <img src="https://img.shields.io/badge/Azure_(Learning)-0a0f1e?style=for-the-badge&logo=microsoftazure&logoColor=0088ff" alt="Azure" />
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0f1e,50:0088ff,100:0a0f1e&height=2" alt="divider" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,12&height=2" alt="divider" />
 
 ## `▸` Featured Projects
 
@@ -94,22 +93,22 @@
 | 🔵 | **[NetSpectre](https://github.com/kushal-soni-official/NetSpectre)** | Network recon engine with **live NVD CVE API** correlation. Glassmorphism web dashboard. | `Python` `Flask` `Nmap` `NVD API` | ![v2.0](https://img.shields.io/badge/v2.0-Active-00ff88?style=flat-square) |
 | 🔴 | **[PhishGuard](https://github.com/kushal-soni-official/PhishGuard)** | AI email threat detector — **Random Forest + NLTK NLP**. High-accuracy phishing classification. | `Python` `scikit-learn` `NLTK` `Flask` | ![v3.0](https://img.shields.io/badge/v3.0-Stable-FFD700?style=flat-square) |
 | 🔐 | **[CryptVault](https://github.com/kushal-soni-official/CryptVault)** | Zero-trust file vault — **AES-256-GCM** + Argon2id key derivation + TOTP 2FA. CLI and web. | `Python` `AES-256` `Argon2` `Flask` | ![Stable](https://img.shields.io/badge/v1.0-Stable-0088ff?style=flat-square) |
-| ⚡ | **[CYPH3R](https://github.com/kushal-soni-official/CYPH3R)** | Privacy-first AI chat — runs **100% in-browser**, zero server, zero data leak. | `JavaScript` `Groq API` | ![Live](https://img.shields.io/badge/Live-Deployed-FF0000?style=flat-square) |
+| ⚡ | **[CYPH3R](https://github.com/kushal-soni-official/CYPH3R)** | Open-source multi-model AI chat — **14+ models**, 100% client-side. Just open `index.html`. | `JavaScript` `HTML` `Multi-API` | ![Open Source](https://img.shields.io/badge/Open%20Source-MIT-FFD700?style=flat-square) |
 | 🛡️ | **[File Integrity Monitor](https://github.com/kushal-soni-official/File-Integrity-Monitor)** | **SHA-256** based FIM with real-time monitoring — mirrors enterprise tools like Tripwire/AIDE. | `Python` `SHA-256` `watchdog` | ![Stable](https://img.shields.io/badge/Stable-00ff88?style=flat-square) |
-| 📊 | **[BankFraud PowerBI](https://github.com/kushal-soni-official/BankFraud-PowerBI-project)** | Power BI dashboard analyzing **~1200 fraud transactions** from Indian digital banking data. | `Power BI` `DAX` `Data Analytics` | ![Stable](https://img.shields.io/badge/Complete-FFD700?style=flat-square) |
+| 📊 | **[BankFraud PowerBI](https://github.com/kushal-soni-official/BankFraud-PowerBI-project)** | Power BI dashboard analyzing **~1200 fraud transactions** from Indian digital banking data. | `Power BI` `DAX` `Data Analytics` | ![Complete](https://img.shields.io/badge/Complete-FFD700?style=flat-square) |
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0f1e,50:0088ff,100:0a0f1e&height=2" alt="divider" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,12&height=2" alt="divider" />
 
 ## `▸` GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kushal-soni-official&show_icons=true&theme=tokyonight&bg_color=0a0f1e&title_color=0088ff&icon_color=00ff88&text_color=ffffff&border_color=0088ff&count_private=true" alt="GitHub Stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=kushal-soni-official&show_icons=true&hide_border=false&theme=tokyonight&bg_color=0a0f1e&title_color=0088ff&icon_color=00ff88&text_color=ffffff&border_color=0088ff" alt="GitHub Stats" />
   &nbsp;
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushal-soni-official&layout=compact&theme=tokyonight&bg_color=0a0f1e&title_color=0088ff&text_color=ffffff&border_color=0088ff" alt="Top Languages" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushal-soni-official&layout=compact&hide_border=false&theme=tokyonight&bg_color=0a0f1e&title_color=0088ff&text_color=ffffff&border_color=0088ff&langs_count=6" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img width="68%" src="https://github-readme-streak-stats.herokuapp.com/?user=kushal-soni-official&theme=tokyonight&background=0a0f1e&border=0088ff&stroke=0088ff&ring=0088ff&fire=FF0000&currStreakLabel=00ff88&sideLabels=ffffff&dates=aaaaaa" alt="Streak Stats" />
+  <img width="65%" src="https://streak-stats.demolab.com?user=kushal-soni-official&theme=tokyonight&background=0a0f1e&border=0088ff&stroke=0088ff&ring=0088ff&fire=FF0000&currStreakLabel=00ff88&sideNums=ffffff&sideLabels=ffffff&dates=888888" alt="GitHub Streak" />
 </p>
 
 <!-- ▓▓▓ SNAKE CONTRIBUTION GRAPH ▓▓▓ -->
@@ -121,40 +120,44 @@
   </picture>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0f1e,50:0088ff,100:0a0f1e&height=2" alt="divider" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,12&height=2" alt="divider" />
 
 ## `▸` Certifications & Experience
 
 | Type | Name | Issuer | Year |
 |------|------|--------|------|
 | 🏆 **Certification** | Ethical Hacking — Elite | NPTEL IIT Kharagpur | 2025 |
-| 🔴 **Active Platform** | Ethical Hacking Practice | TryHackMe — [kusharusan](https://tryhackme.com/p/kusharusan) | Ongoing |
 | 💼 **Internship** | AI/ML Engineering | IBM SkillsBuild | 2025 |
 | 💼 **Internship** | Power BI & Data Analytics | Microsoft Elevate | 2025 |
 | 💼 **Internship** | Cybersecurity Operations | VOIS via AICTE | 2025 |
 | 📚 **In Progress** | SC-500 Security Operations Analyst | Microsoft Azure | 2026 |
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0f1e,50:0088ff,100:0a0f1e&height=2" alt="divider" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,12&height=2" alt="divider" />
 
 ## `▸` Connect
 
 <p align="center">
   <a href="mailto:Ofc.kusharu@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Ofc.kusharu%40gmail.com-FF0000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1b2a" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-Ofc.kusharu%40gmail.com-FF0000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" alt="Email" />
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/kushal-soni-750340345">
-    <img src="https://img.shields.io/badge/LinkedIn-Kushal%20Soni-0088FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1b2a" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Kushal%20Soni-0088FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" alt="LinkedIn" />
   </a>
   &nbsp;
   <a href="https://tryhackme.com/p/kusharusan">
-    <img src="https://img.shields.io/badge/TryHackMe-kusharusan-FF0000?style=for-the-badge&logo=tryhackme&logoColor=white&labelColor=0d1b2a" alt="TryHackMe" />
+    <img src="https://img.shields.io/badge/TryHackMe-kusharusan-FF0000?style=for-the-badge&logo=tryhackme&logoColor=white&labelColor=000000" alt="TryHackMe" />
   </a>
   &nbsp;
   <a href="https://github.com/kushal-soni-official">
-    <img src="https://img.shields.io/badge/GitHub-kushal--soni--official-00ff88?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1b2a" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-kushal--soni--official-00ff88?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="GitHub" />
   </a>
 </p>
 
-<!-- ▓▓▓ FOOTER — Minimal Electric Blue Wave ▓▓▓ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0088ff,50:0044aa,100:0a0f1e&height=140&section=footer&text=KUSHAL%20SONI&fontSize=26&fontColor=ffffff&fontAlignY=65&desc=Cybersecurity%20%26%20AI%20Engineer%20%7C%20Building%20from%20Zero&descAlignY=82&descSize=13&descColor=0088ff&animation=fadeIn" alt="Footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,12&height=2" alt="divider" />
+
+<!-- ▓▓▓ HERO GIF — from main profile readme ▓▓▓ -->
+<img width="100%" src="https://raw.githubusercontent.com/kushal-soni-official/Kushal-soni-official/main/Pi7_Gif10.gif" alt="Kushal Soni" />
+
+<!-- ▓▓▓ FOOTER — Electric Blue Wave ▓▓▓ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0088ff&height=120&section=footer" alt="Footer" />
