@@ -1,0 +1,115 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 130" width="100%" preserveAspectRatio="xMidYMid meet">
+
+  <!-- Background -->
+  <rect width="900" height="130" fill="#050510"/>
+
+  <!-- === MATRIX COLUMNS — LEFT === -->
+  <text font-family="Courier New,monospace" font-size="12" fill="#00BFFF">
+    <animate attributeName="opacity" values="0.4;0.85;0.3;0.7;0.4" dur="2.4s" repeatCount="indefinite"/>
+    <tspan x="12" y="15">0</tspan><tspan x="12" dy="15">&#x03A8;</tspan><tspan x="12" dy="15">F</tspan>
+    <tspan x="12" dy="15">3</tspan><tspan x="12" dy="15">A</tspan><tspan x="12" dy="15">1</tspan>
+    <tspan x="12" dy="15">C</tspan><tspan x="12" dy="15">&#x039B;</tspan>
+  </text>
+  <text font-family="Courier New,monospace" font-size="12" fill="#00BFFF" opacity="0.5">
+    <animate attributeName="opacity" values="0.7;0.2;0.8;0.4;0.7" dur="1.9s" repeatCount="indefinite" begin="0.5s"/>
+    <tspan x="36" y="25">B</tspan><tspan x="36" dy="15">7</tspan><tspan x="36" dy="15">&#x03A3;</tspan>
+    <tspan x="36" dy="15">2</tspan><tspan x="36" dy="15">&#x03A9;</tspan><tspan x="36" dy="15">9</tspan>
+    <tspan x="36" dy="15">5</tspan>
+  </text>
+  <text font-family="Courier New,monospace" font-size="12" fill="#00BFFF">
+    <animate attributeName="opacity" values="0.5;1;0.4;0.6;0.5" dur="2.8s" repeatCount="indefinite" begin="1.0s"/>
+    <tspan x="62" y="10">4</tspan><tspan x="62" dy="15">D</tspan><tspan x="62" dy="15">&#x03A6;</tspan>
+    <tspan x="62" dy="15">8</tspan><tspan x="62" dy="15">6</tspan><tspan x="62" dy="15">E</tspan>
+    <tspan x="62" dy="15">&#x039B;</tspan><tspan x="62" dy="15">1</tspan>
+  </text>
+  <text font-family="Courier New,monospace" font-size="12" fill="#00BFFF" opacity="0.4">
+    <animate attributeName="opacity" values="0.3;0.8;0.5;0.9;0.3" dur="3.1s" repeatCount="indefinite" begin="0.3s"/>
+    <tspan x="88" y="20">&#x03A8;</tspan><tspan x="88" dy="15">C</tspan><tspan x="88" dy="15">5</tspan>
+    <tspan x="88" dy="15">&#x03A3;</tspan><tspan x="88" dy="15">9</tspan><tspan x="88" dy="15">3</tspan>
+  </text>
+  <text font-family="Courier New,monospace" font-size="12" fill="#00BFFF" opacity="0.45">
+    <tspan x="116" y="18">7</tspan><tspan x="116" dy="15">A</tspan><tspan x="116" dy="15">&#x03A9;</tspan>
+    <tspan x="116" dy="15">F</tspan><tspan x="116" dy="15">2</tspan>
+  </text>
+
+  <!-- === MATRIX COLUMNS — RIGHT === -->
+  <text font-family="Courier New,monospace" font-size="12" fill="#00BFFF" opacity="0.45">
+    <tspan x="780" y="22">B</tspan><tspan x="780" dy="15">4</tspan><tspan x="780" dy="15">&#x03A6;</tspan>
+    <tspan x="780" dy="15">9</tspan><tspan x="780" dy="15">D</tspan>
+  </text>
+  <text font-family="Courier New,monospace" font-size="12" fill="#00BFFF">
+    <animate attributeName="opacity" values="0.6;0.2;0.9;0.4;0.6" dur="2.2s" repeatCount="indefinite" begin="0.7s"/>
+    <tspan x="810" y="12">&#x039B;</tspan><tspan x="810" dy="15">3</tspan><tspan x="810" dy="15">C</tspan>
+    <tspan x="810" dy="15">&#x03A3;</tspan><tspan x="810" dy="15">8</tspan><tspan x="810" dy="15">1</tspan>
+    <tspan x="810" dy="15">&#x03A9;</tspan>
+  </text>
+  <text font-family="Courier New,monospace" font-size="12" fill="#00BFFF" opacity="0.5">
+    <animate attributeName="opacity" values="0.3;0.8;0.4;0.7;0.3" dur="1.7s" repeatCount="indefinite" begin="1.2s"/>
+    <tspan x="836" y="28">E</tspan><tspan x="836" dy="15">6</tspan><tspan x="836" dy="15">&#x03A8;</tspan>
+    <tspan x="836" dy="15">A</tspan><tspan x="836" dy="15">7</tspan><tspan x="836" dy="15">2</tspan>
+    <tspan x="836" dy="15">5</tspan><tspan x="836" dy="15">F</tspan>
+  </text>
+  <text font-family="Courier New,monospace" font-size="12" fill="#00BFFF">
+    <animate attributeName="opacity" values="0.8;0.3;0.6;1;0.8" dur="2.6s" repeatCount="indefinite" begin="0.2s"/>
+    <tspan x="862" y="16">4</tspan><tspan x="862" dy="15">B</tspan><tspan x="862" dy="15">&#x039B;</tspan>
+    <tspan x="862" dy="15">0</tspan><tspan x="862" dy="15">D</tspan><tspan x="862" dy="15">9</tspan>
+    <tspan x="862" dy="15">&#x03A6;</tspan>
+  </text>
+  <text font-family="Courier New,monospace" font-size="12" fill="#00BFFF" opacity="0.5">
+    <animate attributeName="opacity" values="0.4;0.9;0.3;0.8;0.4" dur="2.3s" repeatCount="indefinite" begin="0.9s"/>
+    <tspan x="888" y="22">7</tspan><tspan x="888" dy="15">&#x03A3;</tspan><tspan x="888" dy="15">3</tspan>
+    <tspan x="888" dy="15">E</tspan><tspan x="888" dy="15">C</tspan><tspan x="888" dy="15">1</tspan>
+    <tspan x="888" dy="15">&#x03A9;</tspan><tspan x="888" dy="15">8</tspan>
+  </text>
+
+  <!-- Top border glow -->
+  <line x1="0" y1="1" x2="900" y2="1" stroke="#00BFFF" stroke-width="2">
+    <animate attributeName="opacity" values="0.3;0.85;0.3" dur="2.2s" repeatCount="indefinite"/>
+  </line>
+
+  <!-- Top corner accents (red) -->
+  <line x1="0"   y1="1" x2="55"  y2="1"  stroke="#FF003C" stroke-width="2" opacity="0.75"/>
+  <line x1="0"   y1="1" x2="0"   y2="35" stroke="#FF003C" stroke-width="2" opacity="0.75"/>
+  <line x1="900" y1="1" x2="845" y2="1"  stroke="#FF003C" stroke-width="2" opacity="0.75"/>
+  <line x1="900" y1="1" x2="900" y2="35" stroke="#FF003C" stroke-width="2" opacity="0.75"/>
+
+  <!-- Glow layers for main text -->
+  <text x="450" y="67" text-anchor="middle" font-family="Courier New,Courier,monospace"
+        font-size="13" fill="#00BFFF" opacity="0.08" letter-spacing="4">
+    THINK LIKE AN ATTACKER  &#xB7;  DEFEND LIKE A GUARDIAN
+  </text>
+  <text x="449" y="66" text-anchor="middle" font-family="Courier New,Courier,monospace"
+        font-size="13" fill="#00BFFF" opacity="0.14" letter-spacing="4">
+    THINK LIKE AN ATTACKER  &#xB7;  DEFEND LIKE A GUARDIAN
+  </text>
+  <!-- Main footer text -->
+  <text x="450" y="66" text-anchor="middle" font-family="Courier New,Courier,monospace"
+        font-size="13" fill="#EAF8FF" letter-spacing="4">
+    THINK LIKE AN ATTACKER  &#xB7;  DEFEND LIKE A GUARDIAN
+    <animate attributeName="opacity" values="0.75;1;0.75" dur="3.5s" repeatCount="indefinite"/>
+  </text>
+
+  <!-- Username line -->
+  <text x="450" y="92" text-anchor="middle" font-family="Courier New,Courier,monospace"
+        font-size="11" fill="#4FC3FF" opacity="0.65" letter-spacing="3">
+    github.com/kushal-soni-official
+    <animate attributeName="opacity" values="0.45;0.85;0.45" dur="4s" repeatCount="indefinite"/>
+  </text>
+
+  <!-- Status dots row -->
+  <circle cx="370" cy="108" r="3" fill="#00ff88" opacity="0.8">
+    <animate attributeName="opacity" values="0.8;0.2;0.8" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  <text x="380" y="112" font-family="Courier New,Courier,monospace" font-size="9" fill="#4FC3FF" opacity="0.7">SYSTEM SECURE</text>
+  <circle cx="510" cy="108" r="3" fill="#00BFFF" opacity="0.8">
+    <animate attributeName="opacity" values="0.8;0.2;0.8" dur="2.5s" repeatCount="indefinite" begin="0.5s"/>
+  </circle>
+  <text x="520" y="112" font-family="Courier New,Courier,monospace" font-size="9" fill="#4FC3FF" opacity="0.7">FIREWALL ACTIVE</text>
+
+  <!-- Scanning line -->
+  <rect x="0" y="0" width="900" height="1" fill="#00BFFF" opacity="0">
+    <animate attributeName="y" values="-1;133" dur="4.5s" repeatCount="indefinite" calcMode="linear" begin="1s"/>
+    <animate attributeName="opacity" values="0;0.22;0.22;0" dur="4.5s" repeatCount="indefinite" begin="1s"/>
+  </rect>
+
+</svg>

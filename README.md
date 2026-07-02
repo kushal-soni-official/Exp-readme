@@ -4,6 +4,9 @@
      Theme: Electric Blue Primary + Neon Green + Blood Red + Gold
 ═══════════════════════════════════════════════════════════════ -->
 
+<!-- ▓▓▓ HERO BANNER SVG ▓▓▓ -->
+<img width="100%" src="https://raw.githubusercontent.com/kushal-soni-official/Exp-readme/main/hero_banner.svg" alt="Kushal Soni — Cybersecurity &amp; AI Engineer" />
+
 <!-- ▓▓▓ BANNER ▓▓▓ -->
 <img width="100%" src="https://raw.githubusercontent.com/kushal-soni-official/Exp-readme/main/banner.png" alt="Kushal Soni Banner" />
 
@@ -30,7 +33,7 @@
   </a>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,12&height=2" alt="divider" />
+<img width="100%" src="https://raw.githubusercontent.com/kushal-soni-official/Exp-readme/main/divider_circuit.svg" alt="section divider" />
 
 ## `▸` About Me
 
@@ -43,7 +46,7 @@
 
 > *"Being a hacker means being able to master anything you want."*
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,12&height=2" alt="divider" />
+<img width="100%" src="https://raw.githubusercontent.com/kushal-soni-official/Exp-readme/main/divider_circuit.svg" alt="section divider" />
 
 ## `▸` Technical Stack
 
@@ -81,7 +84,7 @@
   <img src="https://img.shields.io/badge/Azure_(Learning)-0a0f1e?style=for-the-badge&logo=microsoftazure&logoColor=0088ff" alt="Azure" />
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,12&height=2" alt="divider" />
+<img width="100%" src="https://raw.githubusercontent.com/kushal-soni-official/Exp-readme/main/divider_circuit.svg" alt="section divider" />
 
 ## `▸` Featured Projects
 
@@ -94,7 +97,7 @@
 | 🛡️ | **[File Integrity Monitor](https://github.com/kushal-soni-official/File-Integrity-Monitor)** | **SHA-256** based FIM with real-time monitoring — mirrors enterprise tools like Tripwire/AIDE. | `Python` `SHA-256` `watchdog` | ![Stable](https://img.shields.io/badge/Stable-00ff88?style=flat-square) |
 | 📊 | **[BankFraud PowerBI](https://github.com/kushal-soni-official/BankFraud-PowerBI-project)** | Power BI dashboard analyzing **~1200 fraud transactions** from Indian digital banking data. | `Power BI` `DAX` `Data Analytics` | ![Complete](https://img.shields.io/badge/Complete-FFD700?style=flat-square) |
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,12&height=2" alt="divider" />
+<img width="100%" src="https://raw.githubusercontent.com/kushal-soni-official/Exp-readme/main/divider_circuit.svg" alt="section divider" />
 
 ## `▸` GitHub Stats
 
@@ -123,7 +126,7 @@
   </picture>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,12&height=2" alt="divider" />
+<img width="100%" src="https://raw.githubusercontent.com/kushal-soni-official/Exp-readme/main/divider_circuit.svg" alt="section divider" />
 
 ## `▸` Certifications & Experience
 
@@ -135,7 +138,7 @@
 | 💼 **Internship** | Cybersecurity Operations | VOIS via AICTE | 2025 |
 | 📚 **In Progress** | SC-500 Security Operations Analyst | Microsoft Azure | 2026 |
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,12&height=2" alt="divider" />
+<img width="100%" src="https://raw.githubusercontent.com/kushal-soni-official/Exp-readme/main/divider_circuit.svg" alt="section divider" />
 
 ## `▸` Connect
 
@@ -157,10 +160,10 @@
   </a>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,12&height=2" alt="divider" />
+<img width="100%" src="https://raw.githubusercontent.com/kushal-soni-official/Exp-readme/main/divider_circuit.svg" alt="section divider" />
 
 <!-- ▓▓▓ BOTTOM GIF — from main profile readme ▓▓▓ -->
 <img width="100%" src="https://raw.githubusercontent.com/kushal-soni-official/Kushal-soni-official/main/Pi7_Gif.gif" alt="Kushal Soni" />
 
-<!-- ▓▓▓ FOOTER — Electric Blue Wave ▓▓▓ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0088ff&height=120&section=footer" alt="Footer" />
+<!-- ▓▓▓ FOOTER V2 ▓▓▓ -->
+<img width="100%" src="https://raw.githubusercontent.com/kushal-soni-official/Exp-readme/main/footer_v2.svg" alt="Footer — Think Like an Attacker, Defend Like a Guardian" />
