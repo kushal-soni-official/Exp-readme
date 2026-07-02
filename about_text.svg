@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 320" width="100%" preserveAspectRatio="xMidYMid meet">
+  <!-- Card Background -->
+  <rect width="900" height="320" fill="#050510" rx="6"/>
+  <!-- Outer glowing border -->
+  <rect x="1" y="1" width="898" height="318" fill="none" stroke="#00BFFF" stroke-width="1" opacity="0.4"/>
+  <!-- Accent side bar -->
+  <rect x="0" y="0" width="4" height="320" fill="#00BFFF" rx="2"/>
+  
+  <g font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#EAF8FF">
+    <!-- Bullet 1 -->
+    <text x="25" y="45">🎓 <tspan font-weight="bold" fill="#00BFFF">Computer Science &amp; Engineering Student</tspan> — at the intersection of Cybersecurity and Artificial Intelligence.</text>
+    
+    <!-- Bullet 2 -->
+    <text x="25" y="85">🔐 Crafting <tspan font-weight="bold" fill="#00ff88">AI-powered security tools on zero budget</tspan> — because real skill needs no subscription.</text>
+    
+    <!-- Bullet 3 -->
+    <text x="25" y="125">⚔️ Focused on <tspan font-weight="bold" fill="#FF5F57">Cybersecurity &amp; Ethical Hacking</tspan> — from Kali Linux tests to multi-agent AI pipelines.</text>
+    
+    <!-- Bullet 4 -->
+    <text x="25" y="165">🤖 Trained predictive ML models achieving <tspan font-weight="bold" fill="#00BFFF">90.91% &amp; 95.61% accuracy</tspan> on threat classification.</text>
+    
+    <!-- Bullet 5 -->
+    <text x="25" y="205">🌐 Bridging <tspan font-weight="bold" fill="#4FC3FF">network-level exploitation</tspan> and <tspan font-weight="bold" fill="#4FC3FF">LLM-layer defense</tspan> — both sides of the wall.</text>
+    
+    <!-- Bullet 6 -->
+    <text x="25" y="245">💡 Note — every tool here was built on <tspan font-weight="bold" fill="#FEBC2E">free tiers, open source, and raw persistence.</tspan></text>
+    
+    <!-- Bullet 7 -->
+    <text x="25" y="285">🪄 Cybersecurity isn't just my career path; it's my <tspan font-style="italic" fill="#00BFFF">obsession and lifelong pursuit.</tspan></text>
+  </g>
+</svg>

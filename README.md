@@ -4,11 +4,14 @@
      Theme: Electric Blue Primary + Neon Green + Blood Red + Gold
 ═══════════════════════════════════════════════════════════════ -->
 
-<!-- ▓▓▓ HERO BANNER SVG ▓▓▓ -->
-<img width="100%" src="https://raw.githubusercontent.com/kushal-soni-official/Exp-readme/main/hero_banner.svg" alt="Kushal Soni — Cybersecurity &amp; AI Engineer" />
-
-<!-- ▓▓▓ BANNER ▓▓▓ -->
-<img width="100%" src="https://raw.githubusercontent.com/kushal-soni-official/Exp-readme/main/banner.png" alt="Kushal Soni Banner" />
+<!-- ▓▓▓ TV ROOM & HERO GIFS ▓▓▓ -->
+<div align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/kushal-soni-official/Exp-readme/main/tv_top.svg" alt="TV Top Bezel" />
+  <img width="100%" src="https://raw.githubusercontent.com/kushal-soni-official/Kushal-soni-official/main/welcome.gif" alt="Welcome Hacker" />
+  <img width="100%" src="https://raw.githubusercontent.com/kushal-soni-official/Exp-readme/main/tv_bottom.svg" alt="TV Bottom Bezel" />
+  <br/>
+  <img width="100%" src="https://raw.githubusercontent.com/kushal-soni-official/Kushal-soni-official/main/banner.gif" alt="Hero Banner" />
+</div>
 
 <br/>
 
@@ -25,7 +28,7 @@
 <!-- ▓▓▓ BADGE ROW — Followers & Views only ▓▓▓ -->
 <p align="center">
   <a href="https://github.com/kushal-soni-official?tab=followers">
-    <img src="https://img.shields.io/github/followers/kushal-soni-official?label=FOLLOWERS&style=for-the-badge&color=0a0f1e&labelColor=0d1b2a&logo=github&logoColor=0088ff" alt="GitHub Followers" />
+    <img src="https://img.shields.io/github/followers/kushal-soni-official?label=FOLLOWERS&style=for-the-badge&color=0a0f1e&labelColor=0d1b2a&logo=github&logoColor=0088ff&labelColor=050510" alt="GitHub Followers" />
   </a>
   &nbsp;
   <a href="https://github.com/kushal-soni-official">
@@ -56,36 +59,36 @@
 
 <p align="center"><b>◈ Languages & Core</b></p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-0a0f1e?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-0a0f1e?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-0a0f1e?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5" />
-  <img src="https://img.shields.io/badge/SQL-0a0f1e?style=for-the-badge&logo=sqlite&logoColor=0088ff" alt="SQL" />
+  <img src="https://img.shields.io/badge/Python-0a0f1e?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=050510" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-0a0f1e?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=050510" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-0a0f1e?style=for-the-badge&logo=html5&logoColor=E34F26&labelColor=050510" alt="HTML5" />
+  <img src="https://img.shields.io/badge/SQL-0a0f1e?style=for-the-badge&logo=sqlite&logoColor=0088ff&labelColor=050510" alt="SQL" />
 </p>
 
 <p align="center"><b>◈ Cybersecurity & Offensive Tools</b></p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Kali_Linux-0a0f1e?style=for-the-badge&logo=kalilinux&logoColor=557C94" alt="Kali Linux" />
-  <img src="https://img.shields.io/badge/Wireshark-0a0f1e?style=for-the-badge&logo=wireshark&logoColor=1679A7" alt="Wireshark" />
-  <img src="https://img.shields.io/badge/Nmap-0a0f1e?style=for-the-badge&logo=gnubash&logoColor=00ff88" alt="Nmap" />
-  <img src="https://img.shields.io/badge/Burp_Suite-0a0f1e?style=for-the-badge&logo=burpsuite&logoColor=FF6633" alt="Burp Suite" />
-  <img src="https://img.shields.io/badge/AES--256_Cryptography-0a0f1e?style=for-the-badge&logo=letsencrypt&logoColor=FFD700" alt="AES-256" />
+  <img src="https://img.shields.io/badge/Kali_Linux-0a0f1e?style=for-the-badge&logo=kalilinux&logoColor=557C94&labelColor=050510" alt="Kali Linux" />
+  <img src="https://img.shields.io/badge/Wireshark-0a0f1e?style=for-the-badge&logo=wireshark&logoColor=1679A7&labelColor=050510" alt="Wireshark" />
+  <img src="https://img.shields.io/badge/Nmap-0a0f1e?style=for-the-badge&logo=gnubash&logoColor=00ff88&labelColor=050510" alt="Nmap" />
+  <img src="https://img.shields.io/badge/Burp_Suite-0a0f1e?style=for-the-badge&logo=burpsuite&logoColor=FF6633&labelColor=050510" alt="Burp Suite" />
+  <img src="https://img.shields.io/badge/AES--256_Cryptography-0a0f1e?style=for-the-badge&logo=letsencrypt&logoColor=FFD700&labelColor=050510" alt="AES-256" />
 </p>
 
 <p align="center"><b>◈ AI, ML & Defense Engineering</b></p>
 <p align="center">
-  <img src="https://img.shields.io/badge/PyTorch-0a0f1e?style=for-the-badge&logo=pytorch&logoColor=EE4C2C" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/scikit--learn-0a0f1e?style=for-the-badge&logo=scikitlearn&logoColor=F7931E" alt="scikit-learn" />
-  <img src="https://img.shields.io/badge/Google_ADK-0a0f1e?style=for-the-badge&logo=google&logoColor=4285F4" alt="Google ADK" />
-  <img src="https://img.shields.io/badge/Gemini_API-0a0f1e?style=for-the-badge&logo=googlegemini&logoColor=0088ff" alt="Gemini API" />
-  <img src="https://img.shields.io/badge/FastAPI-0a0f1e?style=for-the-badge&logo=fastapi&logoColor=00ff88" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Flask-0a0f1e?style=for-the-badge&logo=flask&logoColor=ffffff" alt="Flask" />
+  <img src="https://img.shields.io/badge/PyTorch-0a0f1e?style=for-the-badge&logo=pytorch&logoColor=EE4C2C&labelColor=050510" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/scikit--learn-0a0f1e?style=for-the-badge&logo=scikitlearn&logoColor=F7931E&labelColor=050510" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/Google_ADK-0a0f1e?style=for-the-badge&logo=google&logoColor=4285F4&labelColor=050510" alt="Google ADK" />
+  <img src="https://img.shields.io/badge/Gemini_API-0a0f1e?style=for-the-badge&logo=googlegemini&logoColor=0088ff&labelColor=050510" alt="Gemini API" />
+  <img src="https://img.shields.io/badge/FastAPI-0a0f1e?style=for-the-badge&logo=fastapi&logoColor=00ff88&labelColor=050510" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Flask-0a0f1e?style=for-the-badge&logo=flask&logoColor=ffffff&labelColor=050510" alt="Flask" />
 </p>
 
 <p align="center"><b>◈ Platforms & Data</b></p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Linux-0a0f1e?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux" />
-  <img src="https://img.shields.io/badge/Power_BI-0a0f1e?style=for-the-badge&logo=powerbi&logoColor=FFD700" alt="Power BI" />
-  <img src="https://img.shields.io/badge/Azure_(Learning)-0a0f1e?style=for-the-badge&logo=microsoftazure&logoColor=0088ff" alt="Azure" />
+  <img src="https://img.shields.io/badge/Linux-0a0f1e?style=for-the-badge&logo=linux&logoColor=FCC624&labelColor=050510" alt="Linux" />
+  <img src="https://img.shields.io/badge/Power_BI-0a0f1e?style=for-the-badge&logo=powerbi&logoColor=FFD700&labelColor=050510" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Azure_(Learning)-0a0f1e?style=for-the-badge&logo=microsoftazure&logoColor=0088ff&labelColor=050510" alt="Azure" />
 </p>
 
 <img width="100%" src="https://raw.githubusercontent.com/kushal-soni-official/Exp-readme/main/divider_circuit.svg" alt="section divider" />
@@ -148,19 +151,19 @@
 
 <p align="center">
   <a href="mailto:Ofc.kusharu@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Ofc.kusharu%40gmail.com-FF0000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-Ofc.kusharu%40gmail.com-FF0000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=050510&labelColor=000000" alt="Email" />
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/kushal-soni-750340345">
-    <img src="https://img.shields.io/badge/LinkedIn-Kushal%20Soni-0088FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Kushal%20Soni-0088FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=050510&labelColor=000000" alt="LinkedIn" />
   </a>
   &nbsp;
   <a href="https://tryhackme.com/p/kusharusan">
-    <img src="https://img.shields.io/badge/TryHackMe-kusharusan-FF0000?style=for-the-badge&logo=tryhackme&logoColor=white&labelColor=000000" alt="TryHackMe" />
+    <img src="https://img.shields.io/badge/TryHackMe-kusharusan-FF0000?style=for-the-badge&logo=tryhackme&logoColor=white&labelColor=050510&labelColor=000000" alt="TryHackMe" />
   </a>
   &nbsp;
   <a href="https://github.com/kushal-soni-official">
-    <img src="https://img.shields.io/badge/GitHub-kushal--soni--official-00ff88?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-kushal--soni--official-00ff88?style=for-the-badge&logo=github&logoColor=white&labelColor=050510&labelColor=000000" alt="GitHub" />
   </a>
 </p>
 

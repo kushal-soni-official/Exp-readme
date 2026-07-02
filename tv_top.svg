@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 40" width="100%" preserveAspectRatio="none">
+  <!-- Room Wall -->
+  <rect width="900" height="40" fill="#030308"/>
+  <rect x="0" y="25" width="900" height="15" fill="#0a0a14"/>
+  <line x1="0" y1="25" x2="900" y2="25" stroke="#4FC3FF" stroke-width="2" opacity="0.6"/>
+  <!-- Top Bezel Screen Glow -->
+  <rect x="0" y="38" width="900" height="2" fill="#00BFFF" opacity="0.9"/>
+  <!-- Cyberpunk details -->
+  <text x="12" y="35" font-family="Courier New,Courier,monospace" font-size="8" fill="#4FC3FF" font-weight="bold">MAIN_DISPLAY_UNIT v3.6</text>
+  <circle cx="880" cy="32" r="3" fill="#00ff88">
+    <animate attributeName="opacity" values="1;0.2;1" dur="1s" repeatCount="indefinite"/>
+  </circle>
+  <text x="835" y="35" font-family="Courier New,Courier,monospace" font-size="8" fill="#00ff88">REC</text>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 40" width="100%" preserveAspectRatio="none">
+  <!-- Room Wall Bottom -->
+  <rect width="900" height="40" fill="#030308"/>
+  <rect x="0" y="0" width="900" height="15" fill="#0a0a14"/>
+  <rect x="0" y="0" width="900" height="2" fill="#00BFFF" opacity="0.9"/>
+  <line x1="0" y1="15" x2="900" y2="15" stroke="#4FC3FF" stroke-width="2" opacity="0.6"/>
+  <!-- Details on bottom bezel -->
+  <text x="815" y="11" font-family="Courier New,Courier,monospace" font-size="8" fill="#4FC3FF" font-weight="bold">SIGNAL: OPTIMAL</text>
+  <rect x="420" y="6" width="60" height="3" fill="#7FDBFF" opacity="0.7"/>
+</svg>
