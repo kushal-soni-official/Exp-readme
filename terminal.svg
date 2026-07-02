@@ -1,63 +1,82 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 200" width="100%" preserveAspectRatio="xMidYMid meet">
-  <!-- Terminal Window Background -->
+  <defs>
+    <!-- Typewriter 1: whoami -->
+    <clipPath id="t1">
+      <rect x="15" y="50" width="0" height="20">
+        <animate attributeName="width" values="0;0;250;250;0;0" keyTimes="0;0.02;0.08;0.90;0.95;1" dur="16s" repeatCount="indefinite" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <!-- Result 1 -->
+    <clipPath id="r1">
+      <rect x="15" y="70" width="0" height="20">
+        <animate attributeName="width" values="0;0;400;400;0;0" keyTimes="0;0.08;0.09;0.90;0.95;1" dur="16s" repeatCount="indefinite" fill="freeze"/>
+      </rect>
+    </clipPath>
+
+    <!-- Typewriter 2: role -->
+    <clipPath id="t2">
+      <rect x="15" y="95" width="0" height="20">
+        <animate attributeName="width" values="0;0;300;300;0;0" keyTimes="0;0.18;0.26;0.90;0.95;1" dur="16s" repeatCount="indefinite" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <!-- Result 2 -->
+    <clipPath id="r2">
+      <rect x="15" y="115" width="0" height="20">
+        <animate attributeName="width" values="0;0;600;600;0;0" keyTimes="0;0.26;0.27;0.90;0.95;1" dur="16s" repeatCount="indefinite" fill="freeze"/>
+      </rect>
+    </clipPath>
+
+    <!-- Typewriter 3: speciality -->
+    <clipPath id="t3">
+      <rect x="15" y="140" width="0" height="20">
+        <animate attributeName="width" values="0;0;400;400;0;0" keyTimes="0;0.36;0.44;0.90;0.95;1" dur="16s" repeatCount="indefinite" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <!-- Result 3 -->
+    <clipPath id="r3">
+      <rect x="15" y="160" width="0" height="20">
+        <animate attributeName="width" values="0;0;700;700;0;0" keyTimes="0;0.44;0.45;0.90;0.95;1" dur="16s" repeatCount="indefinite" fill="freeze"/>
+      </rect>
+    </clipPath>
+  </defs>
+
   <rect width="900" height="200" fill="#0D1117" rx="6"/>
-  <!-- Terminal Window Header -->
   <rect x="0" y="0" width="900" height="30" fill="#161B22" rx="6"/>
   <rect x="0" y="25" width="900" height="5" fill="#161B22"/>
   <line x1="0" y1="30" x2="900" y2="30" stroke="#00BFFF" stroke-width="0.5" opacity="0.3"/>
   
-  <!-- macOS window controls -->
   <circle cx="20" cy="15" r="5" fill="#FF5F57"/>
   <circle cx="38" cy="15" r="5" fill="#FEBC2E"/>
   <circle cx="56" cy="15" r="5" fill="#28C840"/>
   
-  <!-- Terminal Title -->
   <text x="450" y="20" text-anchor="middle" font-family="Courier New,Courier,monospace" font-size="12" fill="#8B949E" font-weight="bold">root@kushal-server:~</text>
 
   <g font-family="Courier New,Courier,monospace" font-size="13">
-    <!-- Line 1: whoami -->
-    <g opacity="0">
-      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.04;0.06;0.85;0.90;1" dur="15s" repeatCount="indefinite"/>
-      <text x="20" y="65">
-        <tspan fill="#FF5F57" font-weight="bold">root@kali</tspan>
-        <tspan fill="#EAF8FF">:</tspan>
-        <tspan fill="#4FC3FF" font-weight="bold">~</tspan>
-        <tspan fill="#EAF8FF"># whoami</tspan>
-      </text>
-      <text x="20" y="85" fill="#EAF8FF">kushal-soni-official</text>
-    </g>
+    <!-- Block 1 -->
+    <text x="20" y="65" clip-path="url(#t1)">
+      <tspan fill="#FF5F57" font-weight="bold">root@kali</tspan><tspan fill="#EAF8FF">:</tspan><tspan fill="#4FC3FF" font-weight="bold">~</tspan><tspan fill="#EAF8FF"># whoami</tspan>
+    </text>
+    <text x="20" y="85" fill="#EAF8FF" clip-path="url(#r1)">kushal-soni-official</text>
 
-    <!-- Line 2: role -->
-    <g opacity="0">
-      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.18;0.20;0.85;0.90;1" dur="15s" repeatCount="indefinite"/>
-      <text x="20" y="110">
-        <tspan fill="#FF5F57" font-weight="bold">root@kali</tspan>
-        <tspan fill="#EAF8FF">:</tspan>
-        <tspan fill="#4FC3FF" font-weight="bold">~</tspan>
-        <tspan fill="#EAF8FF"># ./get_role.sh</tspan>
-      </text>
-      <text x="20" y="130" fill="#28C840" font-weight="bold">[+] </text>
-      <text x="50" y="130" fill="#EAF8FF">Cybersecurity &amp; AI Engineering Student</text>
-    </g>
+    <!-- Block 2 -->
+    <text x="20" y="110" clip-path="url(#t2)">
+      <tspan fill="#FF5F57" font-weight="bold">root@kali</tspan><tspan fill="#EAF8FF">:</tspan><tspan fill="#4FC3FF" font-weight="bold">~</tspan><tspan fill="#EAF8FF"># ./get_role.sh</tspan>
+    </text>
+    <text x="20" y="130" clip-path="url(#r2)"><tspan fill="#28C840" font-weight="bold">[+] </tspan><tspan fill="#EAF8FF">Cybersecurity &amp; AI Engineering Student</tspan></text>
 
-    <!-- Line 3: speciality -->
-    <g opacity="0">
-      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.32;0.34;0.85;0.90;1" dur="15s" repeatCount="indefinite"/>
-      <text x="20" y="155">
-        <tspan fill="#FF5F57" font-weight="bold">root@kali</tspan>
-        <tspan fill="#EAF8FF">:</tspan>
-        <tspan fill="#4FC3FF" font-weight="bold">~</tspan>
-        <tspan fill="#EAF8FF"># cat core_skills.txt</tspan>
-      </text>
-      <text x="20" y="175" fill="#EAF8FF">AI Security | Network Recon | Python | Penetration Testing</text>
-    </g>
+    <!-- Block 3 -->
+    <text x="20" y="155" clip-path="url(#t3)">
+      <tspan fill="#FF5F57" font-weight="bold">root@kali</tspan><tspan fill="#EAF8FF">:</tspan><tspan fill="#4FC3FF" font-weight="bold">~</tspan><tspan fill="#EAF8FF"># cat core_skills.txt</tspan>
+    </text>
+    <text x="20" y="175" fill="#EAF8FF" clip-path="url(#r3)">AI Security | Network Recon | Python | Penetration Testing</text>
 
-    <!-- Blinking cursor -->
-    <g opacity="0">
-      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.45;0.47;0.85;0.90;1" dur="15s" repeatCount="indefinite"/>
-      <rect x="20" y="180" width="8" height="15" fill="#00ff88">
-        <animate attributeName="opacity" values="1;0;1" dur="0.8s" repeatCount="indefinite"/>
-      </rect>
-    </g>
+    <!-- Blinking Cursor -->
+    <text x="20" y="195" opacity="0">
+      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.50;0.51;0.90;0.95;1" dur="16s" repeatCount="indefinite"/>
+      <tspan fill="#FF5F57" font-weight="bold">root@kali</tspan><tspan fill="#EAF8FF">:</tspan><tspan fill="#4FC3FF" font-weight="bold">~</tspan><tspan fill="#EAF8FF"># </tspan>
+    </text>
+    <rect x="135" y="183" width="8" height="15" fill="#00ff88" opacity="0">
+      <animate attributeName="opacity" values="0;0;1;0;1;0;1;0;1;0;1;0;0;0" keyTimes="0;0.50;0.52;0.54;0.56;0.58;0.60;0.62;0.64;0.66;0.68;0.70;0.90;1" dur="16s" repeatCount="indefinite"/>
+    </rect>
   </g>
 </svg>

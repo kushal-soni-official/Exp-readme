@@ -1,11 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 320" width="100%" preserveAspectRatio="xMidYMid meet">
-  <!-- Card Background -->
-  <rect width="900" height="320" fill="#050510" rx="6"/>
-  <!-- Outer glowing border -->
-  <rect x="1" y="1" width="898" height="318" fill="none" stroke="#00BFFF" stroke-width="1" opacity="0.4"/>
-  <!-- Accent side bar -->
-  <rect x="0" y="0" width="4" height="320" fill="#00BFFF" rx="2"/>
-  
+  <!-- Completely transparent SVG without boxes or borders -->
   <g font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#EAF8FF">
     <!-- Bullet 1 -->
     <text x="25" y="45">🎓 <tspan font-weight="bold" fill="#00BFFF">Computer Science &amp; Engineering Student</tspan> — at the intersection of Cybersecurity and Artificial Intelligence.</text>

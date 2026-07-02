@@ -1,10 +1,27 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 40" width="100%" preserveAspectRatio="none">
-  <!-- Room Wall Bottom -->
-  <rect width="900" height="40" fill="#030308"/>
-  <rect x="0" y="0" width="900" height="15" fill="#0a0a14"/>
-  <rect x="0" y="0" width="900" height="2" fill="#00BFFF" opacity="0.9"/>
-  <line x1="0" y1="15" x2="900" y2="15" stroke="#4FC3FF" stroke-width="2" opacity="0.6"/>
-  <!-- Details on bottom bezel -->
-  <text x="815" y="11" font-family="Courier New,Courier,monospace" font-size="8" fill="#4FC3FF" font-weight="bold">SIGNAL: OPTIMAL</text>
-  <rect x="420" y="6" width="60" height="3" fill="#7FDBFF" opacity="0.7"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 120" width="100%" preserveAspectRatio="none">
+  <defs>
+    <!-- Ambient glow from the screen bleeding onto the dark floor -->
+    <radialGradient id="floor-glow" cx="50%" cy="0%" r="100%">
+      <stop offset="0%" stop-color="#00BFFF" stop-opacity="0.2"/>
+      <stop offset="100%" stop-color="#010103" stop-opacity="1"/>
+    </radialGradient>
+  </defs>
+  <!-- Background floor -->
+  <rect width="900" height="120" fill="url(#floor-glow)"/>
+  
+  <!-- Perspective lines on floor coming DOWN and AWAY from the screen -->
+  <line x1="0" y1="0" x2="-150" y2="120" stroke="#00BFFF" stroke-width="1" opacity="0.2"/>
+  <line x1="250" y1="0" x2="150" y2="120" stroke="#00BFFF" stroke-width="1" opacity="0.15"/>
+  <line x1="450" y1="0" x2="450" y2="120" stroke="#00BFFF" stroke-width="1" opacity="0.15"/>
+  <line x1="650" y1="0" x2="750" y2="120" stroke="#00BFFF" stroke-width="1" opacity="0.15"/>
+  <line x1="900" y1="0" x2="1050" y2="120" stroke="#00BFFF" stroke-width="1" opacity="0.2"/>
+
+  <!-- Horizontal architectural lines (floor grid) -->
+  <line x1="0" y1="30" x2="900" y2="30" stroke="#00BFFF" stroke-width="0.5" opacity="0.1"/>
+  <line x1="0" y1="70" x2="900" y2="70" stroke="#00BFFF" stroke-width="0.5" opacity="0.05"/>
+  <line x1="0" y1="100" x2="900" y2="100" stroke="#00BFFF" stroke-width="0.5" opacity="0.02"/>
+
+  <!-- Tiny, razor-thin monitor bottom bezel edge -->
+  <rect x="0" y="0" width="900" height="2" fill="#0a0a0f"/>
+  <rect x="0" y="0" width="900" height="1" fill="#00BFFF" opacity="0.6"/>
 </svg>
