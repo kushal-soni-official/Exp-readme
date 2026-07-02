@@ -36,7 +36,7 @@
   </a>
 </p>
 
-<img width="100%" src="https://raw.githubusercontent.com/kushal-soni-official/Exp-readme/main/divider_circuit.svg" alt="section divider" />
+<img width="100%" height="5" src="https://raw.githubusercontent.com/kushal-soni-official/Exp-readme/main/divider_circuit.svg" alt="section divider" />
 
 <img width="100%" src="https://raw.githubusercontent.com/kushal-soni-official/Exp-readme/main/terminal.svg" alt="Live Terminal — Kushal Soni" />
 
@@ -53,7 +53,7 @@
 
 > *"Being a hacker means being able to master anything you want."*
 
-<img width="100%" src="https://raw.githubusercontent.com/kushal-soni-official/Exp-readme/main/divider_circuit.svg" alt="section divider" />
+<img width="100%" height="5" src="https://raw.githubusercontent.com/kushal-soni-official/Exp-readme/main/divider_circuit.svg" alt="section divider" />
 
 ## `▸` Technical Stack
 
@@ -91,7 +91,7 @@
   <img src="https://img.shields.io/badge/Azure_(Learning)-0a0f1e?style=for-the-badge&logo=microsoftazure&logoColor=0088ff&labelColor=050510" alt="Azure" />
 </p>
 
-<img width="100%" src="https://raw.githubusercontent.com/kushal-soni-official/Exp-readme/main/divider_circuit.svg" alt="section divider" />
+<img width="100%" height="5" src="https://raw.githubusercontent.com/kushal-soni-official/Exp-readme/main/divider_circuit.svg" alt="section divider" />
 
 ## `▸` Featured Projects
 
@@ -104,20 +104,12 @@
 | 🛡️ | **[File Integrity Monitor](https://github.com/kushal-soni-official/File-Integrity-Monitor)** | **SHA-256** based FIM with real-time monitoring — mirrors enterprise tools like Tripwire/AIDE. | `Python` `SHA-256` `watchdog` | ![Stable](https://img.shields.io/badge/Stable-00ff88?style=flat-square) |
 | 📊 | **[BankFraud PowerBI](https://github.com/kushal-soni-official/BankFraud-PowerBI-project)** | Power BI dashboard analyzing **~1200 fraud transactions** from Indian digital banking data. | `Power BI` `DAX` `Data Analytics` | ![Complete](https://img.shields.io/badge/Complete-FFD700?style=flat-square) |
 
-<img width="100%" src="https://raw.githubusercontent.com/kushal-soni-official/Exp-readme/main/divider_circuit.svg" alt="section divider" />
+<img width="100%" height="5" src="https://raw.githubusercontent.com/kushal-soni-official/Exp-readme/main/divider_circuit.svg" alt="section divider" />
 
 ## `▸` GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kushal-soni-official&theme=tokyonight" height="150" alt="Stats" />
-  &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kushal-soni-official&theme=tokyonight" height="150" alt="Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kushal-soni-official&theme=tokyonight&utcOffset=5.5" height="150" alt="Productive Time" />
-  &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kushal-soni-official&theme=tokyonight" height="150" alt="Profile Details" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=kushal-soni-official&custom_title=Kushal%20Soni%27s%20Contribution%20Graph&bg_color=050510&color=4FC3FF&line=00BFFF&point=7FDBFF&area=true&hide_border=true&area_color=001D3D" alt="Contribution Graph" />
 </p>
 
 <p align="center">
@@ -133,7 +125,7 @@
   </picture>
 </p>
 
-<img width="100%" src="https://raw.githubusercontent.com/kushal-soni-official/Exp-readme/main/divider_circuit.svg" alt="section divider" />
+<img width="100%" height="5" src="https://raw.githubusercontent.com/kushal-soni-official/Exp-readme/main/divider_circuit.svg" alt="section divider" />
 
 ## `▸` Certifications & Experience
 
@@ -145,29 +137,29 @@
 | 💼 **Internship** | Cybersecurity Operations | VOIS via AICTE | 2025 |
 | 📚 **In Progress** | SC-500 Security Operations Analyst | Microsoft Azure | 2026 |
 
-<img width="100%" src="https://raw.githubusercontent.com/kushal-soni-official/Exp-readme/main/divider_circuit.svg" alt="section divider" />
+<img width="100%" height="5" src="https://raw.githubusercontent.com/kushal-soni-official/Exp-readme/main/divider_circuit.svg" alt="section divider" />
 
 ## `▸` Connect
 
 <p align="center">
   <a href="mailto:Ofc.kusharu@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Ofc.kusharu%40gmail.com-FF0000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=050510&labelColor=000000" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-Ofc.kusharu%40gmail.com-0A0A0A?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=050510" alt="Email" />
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/kushal-soni-750340345">
-    <img src="https://img.shields.io/badge/LinkedIn-Kushal%20Soni-0088FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=050510&labelColor=000000" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Kushal%20Soni-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=050510" alt="LinkedIn" />
   </a>
   &nbsp;
   <a href="https://tryhackme.com/p/kusharusan">
-    <img src="https://img.shields.io/badge/TryHackMe-kusharusan-FF0000?style=for-the-badge&logo=tryhackme&logoColor=white&labelColor=050510&labelColor=000000" alt="TryHackMe" />
+    <img src="https://img.shields.io/badge/TryHackMe-kusharusan-0A0A0A?style=for-the-badge&logo=tryhackme&logoColor=88cc14&labelColor=050510" alt="TryHackMe" />
   </a>
   &nbsp;
   <a href="https://github.com/kushal-soni-official">
-    <img src="https://img.shields.io/badge/GitHub-kushal--soni--official-00ff88?style=for-the-badge&logo=github&logoColor=white&labelColor=050510&labelColor=000000" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-kushal--soni--official-0A0A0A?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=050510" alt="GitHub" />
   </a>
 </p>
 
-<img width="100%" src="https://raw.githubusercontent.com/kushal-soni-official/Exp-readme/main/divider_circuit.svg" alt="section divider" />
+<img width="100%" height="5" src="https://raw.githubusercontent.com/kushal-soni-official/Exp-readme/main/divider_circuit.svg" alt="section divider" />
 
 <!-- ▓▓▓ BOTTOM GIF — from main profile readme ▓▓▓ -->
 <img width="100%" src="https://raw.githubusercontent.com/kushal-soni-official/Kushal-soni-official/main/Pi7_Gif.gif" alt="Kushal Soni" />
