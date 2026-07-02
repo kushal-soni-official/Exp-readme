@@ -6,9 +6,7 @@
 
 <!-- ▓▓▓ TV ROOM & HERO GIFS ▓▓▓ -->
 <div align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/kushal-soni-official/Exp-readme/main/tv_top.svg" alt="TV Top Bezel" />
   <img width="100%" src="https://raw.githubusercontent.com/kushal-soni-official/Kushal-soni-official/main/welcome.gif" alt="Welcome Hacker" />
-  <img width="100%" src="https://raw.githubusercontent.com/kushal-soni-official/Exp-readme/main/tv_bottom.svg" alt="TV Bottom Bezel" />
   <br/>
   <img width="100%" src="https://raw.githubusercontent.com/kushal-soni-official/Kushal-soni-official/main/banner.gif" alt="Hero Banner" />
 </div>
@@ -95,6 +93,8 @@
 
 ## `▸` Featured Projects
 
+<div align="center">
+
 | # | Project | What It Does | Stack | Status |
 |---|---------|-------------|-------|--------|
 | 🔵 | **[NetSpectre](https://github.com/kushal-soni-official/NetSpectre)** | Network recon engine with **live NVD CVE API** correlation. Glassmorphism web dashboard. | `Python` `Flask` `Nmap` `NVD API` | ![v2.0](https://img.shields.io/badge/v2.0-Active-00ff88?style=flat-square) |
@@ -103,6 +103,8 @@
 | ⚡ | **[CYPH3R](https://github.com/kushal-soni-official/CYPH3R)** | Open-source multi-model AI chat — **14+ models**, 100% client-side. Just open `index.html`. | `JavaScript` `HTML` `Multi-API` | ![Open Source](https://img.shields.io/badge/Open%20Source-MIT-FFD700?style=flat-square) |
 | 🛡️ | **[File Integrity Monitor](https://github.com/kushal-soni-official/File-Integrity-Monitor)** | **SHA-256** based FIM with real-time monitoring — mirrors enterprise tools like Tripwire/AIDE. | `Python` `SHA-256` `watchdog` | ![Stable](https://img.shields.io/badge/Stable-00ff88?style=flat-square) |
 | 📊 | **[BankFraud PowerBI](https://github.com/kushal-soni-official/BankFraud-PowerBI-project)** | Power BI dashboard analyzing **~1200 fraud transactions** from Indian digital banking data. | `Power BI` `DAX` `Data Analytics` | ![Complete](https://img.shields.io/badge/Complete-FFD700?style=flat-square) |
+
+</div>
 
 <img width="100%" height="5" src="https://raw.githubusercontent.com/kushal-soni-official/Exp-readme/main/divider_circuit.svg" alt="section divider" />
 
@@ -129,6 +131,8 @@
 
 ## `▸` Certifications & Experience
 
+<div align="center">
+
 | Type | Name | Issuer | Year |
 |------|------|--------|------|
 | 🏆 **Certification** | Ethical Hacking — Elite | NPTEL IIT Kharagpur | 2025 |
@@ -136,6 +140,8 @@
 | 💼 **Internship** | Power BI & Data Analytics | Microsoft Elevate | 2025 |
 | 💼 **Internship** | Cybersecurity Operations | VOIS via AICTE | 2025 |
 | 📚 **In Progress** | SC-500 Security Operations Analyst | Microsoft Azure | 2026 |
+
+</div>
 
 <img width="100%" height="5" src="https://raw.githubusercontent.com/kushal-soni-official/Exp-readme/main/divider_circuit.svg" alt="section divider" />
 
