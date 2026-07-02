@@ -35,7 +35,11 @@
 
 <img width="100%" src="https://raw.githubusercontent.com/kushal-soni-official/Exp-readme/main/divider_circuit.svg" alt="section divider" />
 
+<img width="100%" src="https://raw.githubusercontent.com/kushal-soni-official/Exp-readme/main/terminal.svg" alt="Live Terminal — Kushal Soni" />
+
 ## `▸` About Me
+
+<img width="100%" src="https://raw.githubusercontent.com/kushal-soni-official/Exp-readme/main/about_hud.svg" alt="About Me — Kushal Soni Profile HUD" />
 
 - 🎓 **Computer Science & Engineering Student** — Diploma in CSE (**~75%**) | XII UP Board (**89%**) — building real-world security systems while still in college
 - 🔐 Building **AI-powered cybersecurity tools from scratch** — zero paid subscriptions, pure skill

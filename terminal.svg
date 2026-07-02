@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 192" width="100%" preserveAspectRatio="xMidYMid meet">
+
+  <!-- Background -->
+  <rect width="900" height="192" fill="#0D1117"/>
+
+  <!-- Outer border -->
+  <rect x="1" y="1" width="898" height="190" fill="none" stroke="#00BFFF" stroke-width="1" opacity="0.35"/>
+
+  <!-- Title bar -->
+  <rect x="0" y="0" width="900" height="28" fill="#050510"/>
+  <line x1="0" y1="28" x2="900" y2="28" stroke="#00BFFF" stroke-width="0.5" opacity="0.4"/>
+  <!-- Window dots -->
+  <circle cx="18"  cy="14" r="5" fill="#FF5F57"/>
+  <circle cx="36"  cy="14" r="5" fill="#FEBC2E"/>
+  <circle cx="54"  cy="14" r="5" fill="#28C840"/>
+  <!-- Title -->
+  <text x="450" y="19" text-anchor="middle" font-family="Courier New,Courier,monospace" font-size="10" fill="#4FC3FF" opacity="0.7" letter-spacing="2">bash -- kushal-soni-official -- 80x24</text>
+
+  <!-- Line 1: $ whoami  (appears at 4% of 16s = 0.64s) -->
+  <text x="14" y="57" font-family="Courier New,Courier,monospace" font-size="13" fill="#00ff88" opacity="0">
+    $&gt; whoami
+    <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.04;0.06;0.80;0.88;1" dur="16s" repeatCount="indefinite"/>
+  </text>
+
+  <!-- Line 2: kushal-soni-official -->
+  <text x="26" y="72" font-family="Courier New,Courier,monospace" font-size="13" fill="#EAF8FF" opacity="0">
+    kushal-soni-official
+    <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.12;0.14;0.80;0.88;1" dur="16s" repeatCount="indefinite"/>
+  </text>
+
+  <!-- Line 3: $ role -->
+  <text x="14" y="93" font-family="Courier New,Courier,monospace" font-size="13" fill="#00ff88" opacity="0">
+    $&gt; role
+    <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.20;0.22;0.80;0.88;1" dur="16s" repeatCount="indefinite"/>
+  </text>
+
+  <!-- Line 4: Cybersecurity & AI Engineering Student -->
+  <text x="26" y="108" font-family="Courier New,Courier,monospace" font-size="13" fill="#EAF8FF" opacity="0">
+    Cybersecurity &amp; AI Engineering Student
+    <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.28;0.30;0.80;0.88;1" dur="16s" repeatCount="indefinite"/>
+  </text>
+
+  <!-- Line 5: $ speciality -->
+  <text x="14" y="129" font-family="Courier New,Courier,monospace" font-size="13" fill="#00ff88" opacity="0">
+    $&gt; speciality
+    <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.36;0.38;0.80;0.88;1" dur="16s" repeatCount="indefinite"/>
+  </text>
+
+  <!-- Line 6: AI Security | Network Recon | Python -->
+  <text x="26" y="144" font-family="Courier New,Courier,monospace" font-size="13" fill="#EAF8FF" opacity="0">
+    AI Security &#xB7; Network Recon &#xB7; Python &#xB7; Ethical Hacking
+    <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.44;0.46;0.80;0.88;1" dur="16s" repeatCount="indefinite"/>
+  </text>
+
+  <!-- Line 7: $ status -->
+  <text x="14" y="165" font-family="Courier New,Courier,monospace" font-size="13" fill="#00ff88" opacity="0">
+    $&gt; status
+    <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.52;0.54;0.80;0.88;1" dur="16s" repeatCount="indefinite"/>
+  </text>
+
+  <!-- Line 8: [ READY ] -->
+  <text x="26" y="180" font-family="Courier New,Courier,monospace" font-size="13" fill="#00BFFF" opacity="0" font-weight="bold">
+    [ ACCESS GRANTED — SYSTEM READY ]
+    <animate attributeName="opacity" values="0;0;0.9;0.9;0;0" keyTimes="0;0.60;0.62;0.80;0.88;1" dur="16s" repeatCount="indefinite"/>
+  </text>
+
+  <!-- Blinking cursor -->
+  <rect x="14" y="167" width="8" height="13" fill="#00BFFF" rx="1" opacity="0">
+    <animate attributeName="opacity" values="0;0;0;0;0;0;0;0;1;0;1;0;1;0;0;0" keyTimes="0;0.04;0.12;0.20;0.28;0.36;0.44;0.62;0.65;0.67;0.70;0.72;0.75;0.78;0.88;1" dur="16s" repeatCount="indefinite"/>
+  </rect>
+
+</svg>

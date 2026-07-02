@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 180" width="100%" preserveAspectRatio="xMidYMid meet">
+
+  <!-- Background -->
+  <rect width="900" height="180" fill="#050510"/>
+
+  <!-- Outer border -->
+  <rect x="1" y="1" width="898" height="178" fill="none" stroke="#00BFFF" stroke-width="1">
+    <animate attributeName="opacity" values="0.15;0.4;0.15" dur="4s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Header bar -->
+  <rect x="0" y="0" width="900" height="28" fill="#0D1117"/>
+  <line x1="0" y1="28" x2="900" y2="28" stroke="#00BFFF" stroke-width="0.5" opacity="0.4"/>
+  <text x="14" y="19" font-family="Courier New,Courier,monospace" font-size="12" fill="#00BFFF" font-weight="bold" letter-spacing="1">[ SKILL SCAN ACTIVE ]</text>
+  <!-- Animated scanning dot -->
+  <circle cx="230" cy="14" r="4" fill="#FF003C">
+    <animate attributeName="opacity" values="1;0.1;1" dur="0.9s" repeatCount="indefinite"/>
+  </circle>
+  <text x="240" y="19" font-family="Courier New,Courier,monospace" font-size="10" fill="#FF003C" opacity="0.8">SCANNING</text>
+
+  <!-- Accent bars -->
+  <rect x="0"   y="0" width="2" height="180" fill="#00BFFF" opacity="0.3"/>
+  <rect x="898" y="0" width="2" height="180" fill="#00BFFF" opacity="0.3"/>
+
+  <!-- === ROW 1: PYTHON 90% === -->
+  <text x="18"  y="52" font-family="Courier New,Courier,monospace" font-size="11" fill="#4FC3FF" letter-spacing="0.5">PYTHON</text>
+  <!-- Background track -->
+  <rect x="170" y="41" width="560" height="13" fill="#00BFFF" opacity="0.1" rx="2"/>
+  <!-- Fill bar -->
+  <rect x="170" y="41" width="0"   height="13" fill="#00BFFF" opacity="0.8" rx="2">
+    <animate attributeName="width" from="0" to="504" dur="1s" fill="freeze" begin="0.3s" calcMode="ease-out"/>
+  </rect>
+  <text x="742" y="52" font-family="Courier New,Courier,monospace" font-size="10" fill="#EAF8FF" opacity="0.75">90%</text>
+
+  <!-- === ROW 2: LINUX 82% === -->
+  <text x="18"  y="78" font-family="Courier New,Courier,monospace" font-size="11" fill="#4FC3FF" letter-spacing="0.5">LINUX</text>
+  <rect x="170" y="67" width="560" height="13" fill="#00BFFF" opacity="0.1" rx="2"/>
+  <rect x="170" y="67" width="0"   height="13" fill="#00BFFF" opacity="0.8" rx="2">
+    <animate attributeName="width" from="0" to="459" dur="1s" fill="freeze" begin="0.7s" calcMode="ease-out"/>
+  </rect>
+  <text x="742" y="78" font-family="Courier New,Courier,monospace" font-size="10" fill="#EAF8FF" opacity="0.75">82%</text>
+
+  <!-- === ROW 3: NETWORK SECURITY 75% === -->
+  <text x="18"  y="104" font-family="Courier New,Courier,monospace" font-size="11" fill="#4FC3FF" letter-spacing="0.5">NETWORK SEC</text>
+  <rect x="170" y="93" width="560" height="13" fill="#00BFFF" opacity="0.1" rx="2"/>
+  <rect x="170" y="93" width="0"   height="13" fill="#00BFFF" opacity="0.8" rx="2">
+    <animate attributeName="width" from="0" to="420" dur="1s" fill="freeze" begin="1.1s" calcMode="ease-out"/>
+  </rect>
+  <text x="742" y="104" font-family="Courier New,Courier,monospace" font-size="10" fill="#EAF8FF" opacity="0.75">75%</text>
+
+  <!-- === ROW 4: AI / ML 70% === -->
+  <text x="18"  y="130" font-family="Courier New,Courier,monospace" font-size="11" fill="#4FC3FF" letter-spacing="0.5">AI / ML</text>
+  <rect x="170" y="119" width="560" height="13" fill="#00BFFF" opacity="0.1" rx="2"/>
+  <rect x="170" y="119" width="0"   height="13" fill="#00BFFF" opacity="0.8" rx="2">
+    <animate attributeName="width" from="0" to="392" dur="1s" fill="freeze" begin="1.5s" calcMode="ease-out"/>
+  </rect>
+  <text x="742" y="130" font-family="Courier New,Courier,monospace" font-size="10" fill="#EAF8FF" opacity="0.75">70%</text>
+
+  <!-- === ROW 5: CRYPTOGRAPHY 62% === -->
+  <text x="18"  y="156" font-family="Courier New,Courier,monospace" font-size="11" fill="#4FC3FF" letter-spacing="0.5">CRYPTOGRAPHY</text>
+  <rect x="170" y="145" width="560" height="13" fill="#00BFFF" opacity="0.1" rx="2"/>
+  <rect x="170" y="145" width="0"   height="13" fill="#00BFFF" opacity="0.8" rx="2">
+    <animate attributeName="width" from="0" to="347" dur="1s" fill="freeze" begin="1.9s" calcMode="ease-out"/>
+  </rect>
+  <text x="742" y="156" font-family="Courier New,Courier,monospace" font-size="10" fill="#EAF8FF" opacity="0.75">62%</text>
+
+  <!-- Bottom line -->
+  <line x1="0" y1="179" x2="900" y2="179" stroke="#00BFFF" stroke-width="0.5" opacity="0.25"/>
+
+</svg>

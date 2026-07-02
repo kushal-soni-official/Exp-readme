@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 158" width="100%" preserveAspectRatio="xMidYMid meet">
+
+  <!-- Background -->
+  <rect width="900" height="158" fill="#050510"/>
+
+  <!-- Outer border -->
+  <rect x="1" y="1" width="898" height="156" fill="none" stroke="#00BFFF" stroke-width="1">
+    <animate attributeName="opacity" values="0.18;0.48;0.18" dur="4s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Header bar -->
+  <rect x="0" y="0" width="900" height="29" fill="#0D1117"/>
+  <line x1="0" y1="29" x2="900" y2="29" stroke="#00BFFF" stroke-width="0.5" opacity="0.45"/>
+
+  <!-- Header left: label -->
+  <text x="14" y="20" font-family="Courier New,Courier,monospace" font-size="12" fill="#00BFFF" font-weight="bold" letter-spacing="1">[ PROFILE // KUSHAL SONI ]</text>
+
+  <!-- Header right: status -->
+  <circle cx="844" cy="14.5" r="4.5" fill="#00ff88">
+    <animate attributeName="opacity" values="1;0.15;1" dur="1.6s" repeatCount="indefinite"/>
+    <animate attributeName="r" values="4.5;3;4.5" dur="1.6s" repeatCount="indefinite"/>
+  </circle>
+  <text x="854" y="19" font-family="Courier New,Courier,monospace" font-size="10" fill="#00ff88">ONLINE</text>
+
+  <!-- Left accent bar -->
+  <rect x="0" y="0" width="3" height="158" fill="#00BFFF" opacity="0.35"/>
+  <!-- Right accent bar -->
+  <rect x="897" y="0" width="3" height="158" fill="#00BFFF" opacity="0.35"/>
+
+  <!-- Row 1: LOCATION -->
+  <text x="18" y="51" font-family="Courier New,Courier,monospace" font-size="10.5" fill="#4FC3FF" letter-spacing="1">LOCATION</text>
+  <text x="162" y="51" font-family="Courier New,Courier,monospace" font-size="10.5" fill="#7FDBFF" opacity="0.45">:</text>
+  <text x="180" y="51" font-family="Courier New,Courier,monospace" font-size="10.5" fill="#EAF8FF">INDIA</text>
+
+  <!-- Row 2: FOCUS -->
+  <text x="18" y="70" font-family="Courier New,Courier,monospace" font-size="10.5" fill="#4FC3FF" letter-spacing="1">FOCUS</text>
+  <text x="162" y="70" font-family="Courier New,Courier,monospace" font-size="10.5" fill="#7FDBFF" opacity="0.45">:</text>
+  <text x="180" y="70" font-family="Courier New,Courier,monospace" font-size="10.5" fill="#EAF8FF">CYBERSECURITY &amp; AI SECURITY ENGINEERING</text>
+
+  <!-- Row 3: MISSION -->
+  <text x="18" y="89" font-family="Courier New,Courier,monospace" font-size="10.5" fill="#4FC3FF" letter-spacing="1">MISSION</text>
+  <text x="162" y="89" font-family="Courier New,Courier,monospace" font-size="10.5" fill="#7FDBFF" opacity="0.45">:</text>
+  <text x="180" y="89" font-family="Courier New,Courier,monospace" font-size="10.5" fill="#EAF8FF">BUILDING AI-POWERED SECURITY TOOLS ON ZERO BUDGET</text>
+
+  <!-- Row 4: EXPERIENCE -->
+  <text x="18" y="108" font-family="Courier New,Courier,monospace" font-size="10.5" fill="#4FC3FF" letter-spacing="1">EXPERIENCE</text>
+  <text x="162" y="108" font-family="Courier New,Courier,monospace" font-size="10.5" fill="#7FDBFF" opacity="0.45">:</text>
+  <text x="180" y="108" font-family="Courier New,Courier,monospace" font-size="10.5" fill="#EAF8FF">IBM SkillsBuild &#xB7; Microsoft Elevate &#xB7; VOIS / AICTE</text>
+
+  <!-- Row 5: TOP CERT -->
+  <text x="18" y="127" font-family="Courier New,Courier,monospace" font-size="10.5" fill="#4FC3FF" letter-spacing="1">TOP CERT</text>
+  <text x="162" y="127" font-family="Courier New,Courier,monospace" font-size="10.5" fill="#7FDBFF" opacity="0.45">:</text>
+  <text x="180" y="127" font-family="Courier New,Courier,monospace" font-size="10.5" fill="#EAF8FF">NPTEL Ethical Hacking — ELITE PERFORMER &#xB7; IIT Kharagpur 2025</text>
+
+  <!-- Row 6: TARGET -->
+  <text x="18" y="146" font-family="Courier New,Courier,monospace" font-size="10.5" fill="#4FC3FF" letter-spacing="1">TARGET</text>
+  <text x="162" y="146" font-family="Courier New,Courier,monospace" font-size="10.5" fill="#7FDBFF" opacity="0.45">:</text>
+  <text x="180" y="146" font-family="Courier New,Courier,monospace" font-size="10.5" fill="#EAF8FF">SOC Analyst &#xB7; AI Security Engineer &#xB7; Penetration Tester</text>
+
+  <!-- Bottom border -->
+  <line x1="0" y1="157" x2="900" y2="157" stroke="#00BFFF" stroke-width="0.5" opacity="0.3"/>
+
+  <!-- Scanline -->
+  <rect x="0" y="-1" width="900" height="1" fill="#00BFFF" opacity="0">
+    <animate attributeName="y" values="-1;159;-1" dur="9s" repeatCount="indefinite" calcMode="linear" begin="2s"/>
+    <animate attributeName="opacity" values="0;0.1;0.1;0" dur="9s" repeatCount="indefinite" begin="2s"/>
+  </rect>
+
+</svg>
