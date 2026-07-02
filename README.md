@@ -34,13 +34,11 @@
   </a>
 </p>
 
-<img width="100%" height="5" src="https://raw.githubusercontent.com/kushal-soni-official/Exp-readme/main/divider_circuit.svg" alt="section divider" />
+<img width="100%" height="2" src="https://raw.githubusercontent.com/kushal-soni-official/Exp-readme/main/divider_circuit.svg" alt="section divider" />
 
 <img width="100%" src="https://raw.githubusercontent.com/kushal-soni-official/Exp-readme/main/terminal.svg" alt="Live Terminal — Kushal Soni" />
 
 ## `▸` About Me
-
-<img width="100%" src="https://raw.githubusercontent.com/kushal-soni-official/Exp-readme/main/about_hud.svg" alt="About Me — Kushal Soni Profile HUD" />
 
 - 🎓 **Computer Science & Engineering Student** — Diploma in CSE (**~75%**) | XII UP Board (**89%**) — building real-world security systems while still in college
 - 🔐 Building **AI-powered cybersecurity tools from scratch** — zero paid subscriptions, pure skill
@@ -51,7 +49,7 @@
 
 > *"Being a hacker means being able to master anything you want."*
 
-<img width="100%" height="5" src="https://raw.githubusercontent.com/kushal-soni-official/Exp-readme/main/divider_circuit.svg" alt="section divider" />
+<img width="100%" height="2" src="https://raw.githubusercontent.com/kushal-soni-official/Exp-readme/main/divider_circuit.svg" alt="section divider" />
 
 ## `▸` Technical Stack
 
@@ -89,7 +87,7 @@
   <img src="https://img.shields.io/badge/Azure_(Learning)-0a0f1e?style=for-the-badge&logo=microsoftazure&logoColor=0088ff&labelColor=050510" alt="Azure" />
 </p>
 
-<img width="100%" height="5" src="https://raw.githubusercontent.com/kushal-soni-official/Exp-readme/main/divider_circuit.svg" alt="section divider" />
+<img width="100%" height="2" src="https://raw.githubusercontent.com/kushal-soni-official/Exp-readme/main/divider_circuit.svg" alt="section divider" />
 
 ## `▸` Featured Projects
 
@@ -106,7 +104,7 @@
 
 </div>
 
-<img width="100%" height="5" src="https://raw.githubusercontent.com/kushal-soni-official/Exp-readme/main/divider_circuit.svg" alt="section divider" />
+<img width="100%" height="2" src="https://raw.githubusercontent.com/kushal-soni-official/Exp-readme/main/divider_circuit.svg" alt="section divider" />
 
 ## `▸` GitHub Stats
 
@@ -127,7 +125,7 @@
   </picture>
 </p>
 
-<img width="100%" height="5" src="https://raw.githubusercontent.com/kushal-soni-official/Exp-readme/main/divider_circuit.svg" alt="section divider" />
+<img width="100%" height="2" src="https://raw.githubusercontent.com/kushal-soni-official/Exp-readme/main/divider_circuit.svg" alt="section divider" />
 
 ## `▸` Certifications & Experience
 
@@ -143,7 +141,7 @@
 
 </div>
 
-<img width="100%" height="5" src="https://raw.githubusercontent.com/kushal-soni-official/Exp-readme/main/divider_circuit.svg" alt="section divider" />
+<img width="100%" height="2" src="https://raw.githubusercontent.com/kushal-soni-official/Exp-readme/main/divider_circuit.svg" alt="section divider" />
 
 ## `▸` Connect
 
@@ -165,7 +163,7 @@
   </a>
 </p>
 
-<img width="100%" height="5" src="https://raw.githubusercontent.com/kushal-soni-official/Exp-readme/main/divider_circuit.svg" alt="section divider" />
+<img width="100%" height="2" src="https://raw.githubusercontent.com/kushal-soni-official/Exp-readme/main/divider_circuit.svg" alt="section divider" />
 
 <!-- ▓▓▓ BOTTOM GIF — from main profile readme ▓▓▓ -->
 <img width="100%" src="https://raw.githubusercontent.com/kushal-soni-official/Kushal-soni-official/main/Pi7_Gif.gif" alt="Kushal Soni" />
